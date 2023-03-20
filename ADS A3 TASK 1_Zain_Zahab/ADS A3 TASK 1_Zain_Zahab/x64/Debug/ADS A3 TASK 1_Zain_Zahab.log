@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\Colored Menu.h(20,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\Colored Menu.h(47,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\Colored Menu.h(70,20): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\Colored Menu.h(72,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\Colored Menu.h(92,18): warning C4101: 'x': unreferenced local variable
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\main.cpp(79,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\main.cpp(109,26): warning C4129: 'P': unrecognized character escape sequence
+C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\ADS A3 TASK 1_Zain_Zahab\main.cpp(168,33): warning C4129: 'A': unrecognized character escape sequence
+  ADS A3 TASK 1_Zain_Zahab.vcxproj -> C:\Users\merva\source\repos\ADS A3 TASK 1_Zain_Zahab\x64\Debug\ADS A3 TASK 1_Zain_Zahab.exe
